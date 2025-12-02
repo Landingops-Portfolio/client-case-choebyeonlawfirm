@@ -1,0 +1,15 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.vimeo.com	TRUE	/	FALSE	1999999999	__cf_bm	a9L7hvbx.e7kIbJHoVq_7s.OyIaWwPHfeO6kCiA18OM-1764692456-1.0.1.1-9TYh3yao2AIdMRc6xctUzH1XI6CXfSfnEbjSIKFyap_0dCiUNDkNR4bjB_NfME1.
+.vimeo.com	TRUE	/	FALSE	1999999999	_cfuvid	dAclayFBiy8s7uFWPGX4mYArrC.4JMPkL.6wT30a__c-1764692456306-0.0.1.1-604800000
+player.vimeo.com	TRUE	/	FALSE	1999999999	SameSite	None
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	al	KR
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	ial	deleted
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	ilc_io	deleted
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	IMWEBVSSID	jcq09l5jlv4ae01aaqk5oipvjfbism0gfcq347p08ug3hma9okp7h444j2sttu20v1pm74vlaeng4fdse3ur2ufm0nic3jd9f7n1qs0
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	SameSite	None
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	ISDID	deleted
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	ilc	JPGFEMczvzzPVYhP8BlaWS9N2Kn1KiYaJx4rJ6sINf8%3D
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	IMWEB_ACCESS_TOKEN	deleted
+choebyeonlawfirm.co.kr	TRUE	/	FALSE	1999999999	IMWEB_REFRESH_TOKEN	deleted
+

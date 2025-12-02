@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 03 Dec 2025 01:20:45 at https://choebyeonlawfirm.co.kr +*.html +*.css +*.js +*.png +*.jpg +*.jpeg +*.gif +*.svg -*://*/*ad.doubleclick.net/* -*://*/*facebook.com/* -*://*/*instagram.com/* -*://*/*youtube.com/* -*://*/*tiktok.com/* -*://*/*twitter.com/* -*://*/*telegram.org/*
+(winhttrack -qwr5%e0C2%Pxs0u1%h%s%uN0%I0p3DaK0H0%kf2o0E300A250000%c10#L500000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://choebyeonlawfirm.co.kr -O1 "C:\Users\강민우\Desktop\test-web-down\choebyeonlawfirm" +*.html +*.css +*.js +*.png +*.jpg +*.jpeg +*.gif +*.svg -*://*/*ad.doubleclick.net/* -*://*/*facebook.com/* -*://*/*instagram.com/* -*://*/*youtube.com/* -*://*/*tiktok.com/* -*://*/*twitter.com/* -*://*/*telegram.org/* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:20:45	Warning: 	* security warning: maximum number of connections per second limited to 5.000000 to avoid server overload
+01:21:59	Warning: 	file not stored in cache due to bogus state (incomplete type with OK (200), size 0): https://choebyeonlawfirm.co.kr/js/post_view.js?1577682295
+01:22:25	Error: 	"Not Found" (404) at link https://choebyeonlawfirm.co.kr/S20250306fbad79bbe35f5/1ccef51059bf4.jpg (from https://choebyeonlawfirm.co.kr/)
+01:22:25	Error: 	"Not Found" (404) at link https://choebyeonlawfirm.co.kr/S20250306fbad79bbe35f5/4005224271a7e.jpg (from https://choebyeonlawfirm.co.kr/)
+01:22:25	Error: 	"Not Found" (404) at link https://choebyeonlawfirm.co.kr/S20250306fbad79bbe35f5/6b3ed1c7c2d43.jpg (from https://choebyeonlawfirm.co.kr/)
+01:22:25	Error: 	"Not Found" (404) at link https://choebyeonlawfirm.co.kr/S20250306fbad79bbe35f5/ca96df5e0898c.jpg (from https://choebyeonlawfirm.co.kr/)
+01:22:33	Error: 	"Forbidden" (403) at link https://vendor-cdn.imweb.me/common/img/filters.svg (from https://vendor-cdn.imweb.me/css/site/site.css?1754031372)
+01:23:00	Error: 	"Not Found" (404) at link choebyeonlawfirm.co.kr/case/WrVpn/wAIu/riXDFqIXI9wxTEHJCm8GqYTCzTHBPw+JSWGLjdVXUQJl+Qa14e/WJQThr9yzjJ3NX0brJj15F6OOqc/kgkcULon9blPiJMAzC6VTgsi62Ucn9iAwy+Rw/ (from choebyeonlawfirm.co.kr/case/?bmode=view&idx=17742194)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 29 seconds : 404 links scanned, 398 files written (64215828 bytes overall) [64493554 bytes received at 432842 bytes/sec]
+(6 errors, 2 warnings, 0 messages)
